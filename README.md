@@ -72,10 +72,4 @@ A full-stack project where I connected a MySQL backend with an HTML page via Fas
 
 ---
 
-## 📈 GitHub Stats
 
-<!-- Left Side: General Stats | Right Side: Most Used Languages -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sneha-10-star&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Sneha's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-10-star&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Sneha's Top Languages" />
-</p>
